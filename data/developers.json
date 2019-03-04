@@ -482,7 +482,15 @@
   },
   {
     "_id": 329,
-    "email": "@nwmissouri.edu"
+    "email": "s534625@nwmissouri.edu",
+    "given": "Pavan Kumar Reddy",
+    "family": "Byreddy",
+    "city": "Maryville",
+    "state": "MO",
+    "zip": 64468,
+    "country": "USA",
+    "URL": "https://www.github.com/redhug/"
+    "email": "s534625@nwmissouri.edu"
   },
   {
     "_id": 330,
